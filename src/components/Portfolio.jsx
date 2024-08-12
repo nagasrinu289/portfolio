@@ -14,7 +14,7 @@ import gitIcon from '../assets/git.png'
 import linuxIcon from '../assets/linux.png'
 import vscodeIcon from '../assets/vscode.png'
 import mailIcon from '../assets/about/mail.png'
-import githubIcon from '../assets/about/github.png';
+import githubIcon from '../assets/about/image.png';
 import linkedIcon from '../assets/about/linkedin.png';
 import leetcodeIcon from '../assets/about/leetcode.png';
 import codechefIcon from '../assets/about/codechef.png';
