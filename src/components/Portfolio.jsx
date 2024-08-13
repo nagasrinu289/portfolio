@@ -47,7 +47,7 @@ const Portfolio = () => {
           <h3 className="text-xl font-semibold">E-commerce Website</h3>
           <p>Collaborated to develop a Product Shopping Website to provide an online platform for users to browse, search, and purchase products.</p>
           <p>Technologies used: React.js, Node.js, Express.js, MongoDB</p>
-          <a href="https://shopping-app-sooty-three.vercel.app/" className="text-cyan-600">Live URL</a> | <a href="https://github.com/Gayatri2301/shopping-app.git" className="text-cyan-600">GitHub Repo</a>
+          <a href="https://shopping-app-sooty-three.vercel.app/" className="text-cyan-600">Live URL</a> | <a href="https://github.com/nagasrinu289/Ecommerce" className="text-cyan-600">GitHub Repo</a>
         </div>
 
         <div className="bg-white p-4 rounded-md shadow-md">
